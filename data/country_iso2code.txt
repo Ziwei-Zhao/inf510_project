@@ -1,0 +1,34 @@
+USA: 
+UK:UA
+New Zealand:NZ
+Germany:DE
+Italy:IT
+Spain:ES
+West Germany: 
+Canada:CA
+Japan:JP
+South Korea: 
+Brazil:BR
+France:FR
+Turkey:TR
+India:IN
+Poland:PL
+Malta:MT
+Morocco:MA
+Denmark:DK
+Sweden:SE
+Iran:IR
+Bulgaria:BG
+Soviet Union: 
+Czechoslovakia: 
+Czech Republic:CZ
+Estonia:EE
+Georgia:GE
+Argentina:AR
+Mexico:MX
+Austria:AT
+Bahamas:BS
+Lebanon:LB
+Libya:LY
+Kuwait:KW
+Saudi Arabia:SA
